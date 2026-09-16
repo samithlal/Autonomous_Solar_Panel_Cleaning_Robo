@@ -79,6 +79,9 @@ Analysis was performed with the robot operating on a solar panel surface incline
 - Factor of safety (static): close to **3**, indicating the structure is statically safe
 - The chassis can develop fatigue cracks under repeated cyclic loading (wheel vibration, brush rotation), particularly at the front arm roots
 
+### Demonstration
+  - https://drive.google.com/file/d/1xpPIq0E5DjK2kI-ZSmbF67O1mccolGd0/view?usp=drivesdk
+
 ### Engineering recommendations
 
 - Increase the fillet radius from 1 mm to 3–5 mm to reduce stress concentration
@@ -122,4 +125,4 @@ Faculty Guide: Prof. Krishna Mohan Kumar
 
 ## License
 
-Add a license of your choice (e.g., MIT) if you intend for others to reuse this work.
+None.
