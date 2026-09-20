@@ -1,7 +1,3 @@
-// ==========================================
-//         CLEANING ROBOT FULL CODE
-// ==========================================
-
 // ========== PIN DEFINITIONS ==========
 int ENA = 5;
 int IN1 = 8;
@@ -22,8 +18,8 @@ int turnSpeed  = 255;
 // ========== CALIBRATION ==========
 int startupMoveTime = 1500;
 int reverseTime     = 800;
-int turn180TimeCW   = 3350;  // Adjust if CW is not exact 180
-int turn180TimeCCW  = 3400;  // Already perfect
+int turn180TimeCW   = 3350;  
+int turn180TimeCCW  = 3400; 
 int rowShiftTime    = 600;
 
 // ========== STATE MACHINE ==========
@@ -57,7 +53,7 @@ void setup() {
   Serial.println("  Robot Starting  ");
   Serial.println("==================");
 
-  digitalWrite(RELAY, LOW); // Change to HIGH if brush doesnt spin
+  digitalWrite(RELAY, LOW);
   Serial.println("Brush ON");
 
   delay(1000);
