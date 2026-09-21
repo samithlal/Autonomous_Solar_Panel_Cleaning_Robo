@@ -6,7 +6,7 @@ Design and engineering analysis of an autonomous robot for cleaning dust and dir
 
 Dust and dirt accumulation on solar panels significantly reduces their efficiency and power output, and manual cleaning is time-consuming, labor-intensive, and impractical at scale. This project presents the design and engineering analysis of an **autonomous solar panel cleaning robot** — a motorized, sensor-guided system that moves across a panel's surface and cleans it with minimal human intervention.
 
-The robot combines a motorized cleaning mechanism, a drive system, an Arduino-based control unit, and a lightweight mechanical chassis. To validate the design, the team carried out Center of Mass (COM) analysis, static and dynamic force analysis, stress/stress-concentration analysis, and fatigue (S-N curve) analysis, alongside CAD modeling and simulation.
+The robot combines a motorized cleaning mechanism, a drive system, an Arduino-based control unit, and a lightweight mechanical chassis. To validate the design, the team carried out Center of Mass (COM) analysis, static and dynamic force analysis, stress/stress-concentration analysis, and fatigue (S-N curve) analysis, alongside CAD modeling and simulation .
 
 ## Key Contributions
 
